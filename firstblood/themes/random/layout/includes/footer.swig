@@ -90,5 +90,8 @@ $(".video-container iframe").each(function(i){
 });
 plyr.setup('.plyr', {iconUrl: '{{ url_for("/css/sprite.svg") }}'});
 </script>
+
+
+
 </body>
 </html>

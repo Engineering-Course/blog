@@ -49,8 +49,26 @@
     </div>
   </div>
 
+
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>
+
   <div id="bottom-outer">
     <div id="bottom-inner">
+      <div>
+      <span id="busuanzi_container_site_pv" style='display:none'>
+          <span id="site-visit" >本站到访数: 
+              <span id="busuanzi_value_site_uv"></span>
+          </span>
+      </span>
+      <span id="busuanzi_container_page_pv" style='display:none'>
+          <span id="page-visit">, 本页阅读量: 
+              <span id="busuanzi_value_page_pv"></span>
+          </span>
+      </span>
+      <br></br>
+      </div>
+      
       Site by {{ config.author }} using
       <a href="http://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a>
       <br>
@@ -65,6 +83,7 @@
       {% endif %}
     </div>
   </div>
+
 </div>
 
 </div>
