@@ -103,7 +103,7 @@ unsplashConfig:
   gravity: 'north' # north, east, south, west, center
   # greyscale: true
 
-avatar: http://7te9fe.com1.z0.glb.clouddn.com/default_avatar.jpg
+avatar: http://o9xb2lnz7.bkt.clouddn.com/iamge/hexo/luffy-avatar.jpg
 
 # do not like fancybox, set this as false, this will turn it off
 fancybox: true
