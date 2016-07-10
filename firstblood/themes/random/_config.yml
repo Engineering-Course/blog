@@ -32,8 +32,6 @@ uyan_id:
 # if you want to change the style of jiaThis, please go to chage the following file:
 # theme/random/layouts/includes/jiathis.swig
 jiaThis_uid: 2105933
-jiathis:
-  enable: true
 jiathisConfig:
   data_track_clickback: true
   summary: ""
